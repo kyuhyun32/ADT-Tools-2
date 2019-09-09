@@ -15,7 +15,7 @@
  */
 definition(
     name: "ADT Tools 2",
-    namespace: "Mavrrick",
+    namespace: "kyuhyun32",
     author: "CRAIG KING",
     description: "Smartthing ADT tools for additional functions ",
     category: "Safety & Security",
